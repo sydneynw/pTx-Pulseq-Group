@@ -3,9 +3,9 @@ Repository to share resources for parallel transmission (pTx) implementations in
 
 ## Repository structure
 repo/  
-├── src/                # Core processing code  
-├── data/               # Sample datasets  
-├── docs/               # Documentation, meeting minutes, publications  
+├── src/ &nbsp;         # Core processing code  
+├── data/ &nbsp;        # Sample datasets  
+├── docs/ &nbsp;        # Documentation, meeting minutes, publications  
 └── README.md  
   
 ### References
