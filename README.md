@@ -1,11 +1,11 @@
 # pTx-Pulseq-Group
-Repository to share resources for parallel transmission (pTx) implementations in _Pulseq_(https://pulseq.github.io/), an open source framework for MR pulse sequence programming<sup>1</sup>.
+Repository to share resources for parallel transmission (pTx) implementations in _Pulseq_ (https://pulseq.github.io/), an open source framework for MR pulse sequence programming<sup>1</sup>.
 
 ## Repository structure
 repo/  
-├── src/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         # Core processing code  
-├── data/ &nbsp;&nbsp;&nbsp;&nbsp;       # Sample datasets  
-├── docs/ &nbsp;&nbsp;&nbsp;&nbsp;        # Documentation, meeting minutes, publications  
+├── src/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  # Core processing code  
+├── data/ &nbsp;&nbsp;&nbsp;&nbsp;                   # Sample datasets  
+├── docs/ &nbsp;&nbsp;&nbsp;&nbsp;                   # Documentation, meeting minutes, publications  
 └── README.md  
   
 ### References
