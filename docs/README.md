@@ -13,6 +13,7 @@ Running list of community works using pTx-Pulseq (*or related):
 
 ## pTx-Pulseq Meetings
 - Inital brainstorm [January 21, 2026](https://docs.google.com/document/d/1c828gDOq5FCd6S_enbHq5_0r6jFf2dRigK4B9VLIkOc/edit?usp=sharing)
+- Second meeting [February 19, 2026](https://docs.google.com/document/d/1wt3kJjqXXN5oaFbbLxQ8AHyJY6KiXWUlFBqmLxb971M/edit?usp=sharing)
 
 All meetings available via Google drive: https://drive.google.com/drive/folders/1dEJHtjeJvoubqdlYqn4K6seT4U7wXVgP?usp=sharing
 
